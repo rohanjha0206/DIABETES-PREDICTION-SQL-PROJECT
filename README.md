@@ -2,7 +2,7 @@
 
 **Author:** Rohan Kumar Jha  
 **Tools Used:** MySQL Command Line Client, MySQL Workbench  
-**Dataset:** [Diabetes Prediction Dataset (Kaggle)]([https://www.kaggle.com/](https://www.kaggle.com/datasets/mathchi/diabetes-data-set))
+**Dataset:** [Diabetes Prediction Dataset (Kaggle)](https://www.kaggle.com/datasets/mathchi/diabetes-data-set)
 
 ---
 
